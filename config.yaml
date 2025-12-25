@@ -1,2 +1,2 @@
-path: "parkinsons.ipynb"
+path: "my_model.joblib"
 features: ['MDVP:Shimmer(dB)', 'PPE']
